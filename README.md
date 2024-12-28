@@ -76,19 +76,4 @@ Make sure you have the following installed:
 2. **Admin Interface**: Navigate to `/admin` to access the admin dashboard, where you can perform CRUD operations on data.
 3. **Perform CRUD Operations**: Use the buttons in the admin interface to create, read, update, or delete items in the database.
 
-## API Endpoints
-
-### GET `/api/items`
-Fetches all items from the database.
-
-### POST `/api/items`
-Creates a new item in the database.
-
-### PUT `/api/items/:id`
-Updates an existing item by its ID.
-
-### DELETE `/api/items/:id`
-Deletes an item by its ID.
-
-
 
