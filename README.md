@@ -64,25 +64,6 @@ Make sure you have the following installed:
 - Node.js
 - npm
 
-### Installation
-
-1. Navigate to the frontend directory:
-    ```bash
-    cd frontend_react
-    ```
-
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Start the React development server:
-    ```bash
-    npm start
-    ```
-
-The frontend should now be running on `http://localhost:3000`.
-
 ## Usage
 
 1. **Landing Page**: The landing page is accessible at the root of the React app. It contains general information about the application.
@@ -103,8 +84,5 @@ Updates an existing item by its ID.
 ### DELETE `/api/items/:id`
 Deletes an item by its ID.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
