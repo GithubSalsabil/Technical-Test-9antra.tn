@@ -3,7 +3,8 @@
 This project demonstrates how to build a landing page and an admin interface with CRUD operations using **Node.js**, **React**, and **MongoDB**.
 
 
-Uploading LandingPage AdminPanel.mp4…
+Uploading LandingPage AdminPanel: https://github.com/user-attachments/assets/b0ffc579-7182-44dc-ac53-b9b7631ec58b
+
 
 
 
