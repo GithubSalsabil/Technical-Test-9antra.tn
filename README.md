@@ -2,6 +2,11 @@
 
 This project demonstrates how to build a landing page and an admin interface with CRUD operations using **Node.js**, **React**, and **MongoDB**.
 
+
+Uploading LandingPage AdminPanel.mp4…
+
+
+
 ## Project Structure
 
 The project is divided into two main parts:
@@ -84,6 +89,5 @@ Updates an existing item by its ID.
 ### DELETE `/api/items/:id`
 Deletes an item by its ID.
 
-[Uploading LandingPage AdminPanel.zip…]()
 
 
